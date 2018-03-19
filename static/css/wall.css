@@ -1,0 +1,56 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+textarea.postmessage{
+    display:block;
+    margin:10px 25px;
+    width:80%;
+    height:60px;
+}
+textarea.postcomment{
+    display:block;
+    margin:10px 25px;
+    width:70%;
+    height:40px;
+
+}
+h4 {
+    margin:10px;
+}
+input.submit {
+    align-items:right;
+    margin-left:10px;
+}
+h4{
+    padding-top:20px;
+}
+h2 {
+    display: inline-block;
+    margin-left:10px;
+}
+p.messagesposted{
+    margin-left:20px;
+    padding-bottom:10px;
+}
+p.commentposted{
+    padding-bottom:10px;
+    margin-left:30px;
+}
+p.headerp {
+    display:inline-block;
+    text-align:center;
+    padding-left:220px;
+}
+div.header {
+    border: 2px black solid;
+    border-left-width:0px;
+    border-right-width:0px;
+    border-top-width:0px;
+    padding-bottom:10px;
+    padding-top:5px;
+}
+
+#messages{
+    margin: 20px;
+}
